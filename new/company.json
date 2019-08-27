@@ -1,0 +1,335 @@
+{
+   "name": "Althea",
+   "url": "https://republic.co/althea",
+   "dealTerms": [
+      {
+         "Investment": "$0.00"
+      },
+      {
+         "Token name": "ALTG"
+      },
+      {
+         "Tokens per drop": "4 — 10,000"
+      },
+      {
+         "Total tokens offered": "1,000,000"
+      },
+      {
+         "Funding goal": "$0.01 – $1,070,000"
+      },
+      {
+         "Deadline": "May 1, 2020 at 2:59 AM (EDT)"
+      },
+      {
+         "Campaign progress": "$39.41 raised from 3941 participants"
+      }
+   ],
+   "discussion": [
+      {
+         "commenter": "Long Wonng",
+         "message": "Airdropped",
+         "replyList": []
+      },
+      {
+         "commenter": "Jehan Tremback",
+         "message": "@Schenectady asked in our chat: \"Hi frens. I just did the airdrop\nI am interested in learning more about the token supply. Are there any resources anyone can point me to? I did see that 7% inflation is expected via validator rewards\nIs the 7% inflation static? Every year supply goes up by 7%?\"\n\nMy answer: We will be using the Cosmos framework, likely with default settings, which would mean that inflation will target 7% per year. In this scenario, if 70% of the tokens are staked, the inflation will be 7%. If less than 70% tokens are staked it will be more, and if more than 70% staked, less.\n\nHowever, these plans may still change, and once the chain is live, it will be controlled by the validators selected by the token holders, not us directly.",
+         "replyList": []
+      },
+      {
+         "commenter": "Andrea Berg",
+         "message": "Is this product going to be available in Sweden?",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@abbe-berg If you organize a network, it will!",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Ari Bonilla",
+         "message": "Hi I am from México, do I need an authorization from the government to implement this project in México?",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@ari-bon-san I'm not 100% sure, but I think it is pretty easy in Mexico. We are working with someone to set up a network there now. @deborah-simpier will know more.",
+               "replyList": null
+            },
+            {
+               "commenter": "Deborah Simpier",
+               "message": "@jehan-tremback While there are some licensing requirements, we can help you through that process. Feel free to submit a proposal and we will be in touch regarding next steps.",
+               "replyList": null
+            },
+            {
+               "commenter": "Ari Bonilla",
+               "message": "@jehan-tremback in order to contact him/her, is it possible to share me his profile Republic name profile.",
+               "replyList": null
+            },
+            {
+               "commenter": "Deborah Simpier",
+               "message": "@ari-bon-san That's me!",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Belinda Elkaim",
+         "message": "Hi there, can I purchase additional tokens? Also .. when can we expect instructions on how to create our Cosmo wallet address?",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "Hi Belinda- We're not planning to sell any tokens at this time. On the Cosmos address- we're currently working to get our blockchain set up (it's currently in a testing phase). Once it is live we will provide those instructions. More about the blockchain testing progress here: blog.althea.net/althea-test-chain-olympics",
+               "replyList": null
+            },
+            {
+               "commenter": "Belinda Elkaim",
+               "message": "@belinda-elkaim Thank you ;-)",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Ciprian Matrache",
+         "message": "Hi. Internet services (21mbs- 100mbs) in Romania using mostly fiber in cities, starts from 6 eur up to 15 eur/month. Do you think Althea is a competitive solution in this case for mass market or only for a specific kind of region where is lack of solutions from big companies. I am interested in building this project in Romania.",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@ciprian-matrache-1 It depends on health of the local retail internet market, since internet access for an Althea network is bought from the same tier 1 carriers as supply internet access to regular ISPs. In many places, it is easy to provide cheaper access to consumers since regular ISPs are doing such a bad job. 6-15eur would not be a lot in the US, but perhaps in Romania it would be possible to provide access even more cheaply. Please submit a proposal to start a network and we can research it more.",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Jason Sutter",
+         "message": "Since the software is open source - will it be possible for someone to add some code to take advantage of users by using an automatic price exploration algorithm to maximize a node's profit? Are there any built in protections for this or is it considered to be a fair practice?",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "Absolutely! We plan to have a well defined plug-in point for pricing plugins. Our first pricing plugin is just hitting a server to get a sane price. This is great to keep service consistent for customers in this early testing phase, but obviously there is a huge scope for automated pricing plugins that cooperate and compete to provide better, cheaper service to subscribers.",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Nigel Speas",
+         "message": "Is the software 5g campatible",
+         "replyList": []
+      },
+      {
+         "commenter": "Vicki Zyznik",
+         "message": "I have done the quiz. I am thinking about doing a plan. However I am in Australia. In my area you can pay AUD60 a month for a good internet connection. Is it worthwhile to have a plan in my area?",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@vicki-zyznik Depends on how good it is. In one of our networks in Oregon, USA, people are paying 20-50 USD for speeds of around 80mbps. This is much faster than the other available options in that area. Your best bet is just to submit a proposal and then we will be able to guide you further.",
+               "replyList": null
+            },
+            {
+               "commenter": "Vicki Zyznik",
+               "message": "@jehan-tremback Will put a proposal together, i am a CPA. I was a financial controller for many years. I am very confident in finance and any of those area. However with technology it is more my husband's field, he is a electrical engineer. He busy with his schedule. However I will try my best to get myself up in speed with the whole idea and see how it work out.",
+               "replyList": null
+            },
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@vicki-zyznik Thanks! We find that it's best when organizers in an area form a team, with at least one person who is good at planning/coordinating and people, and one person who has a reasonable understanding of the tech. Each organizer on the team can apply individually for the airdrop as well.",
+               "replyList": null
+            },
+            {
+               "commenter": "Vicki Zyznik",
+               "message": "@jehan-tremback Thank you for the suggestion. My husband is a good candidate for the technical side of thing. I see what I can do. I do know a fair bit of the technical side because of my husband. Just like he knows a fair bit of finance and our investment because of me.",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Justin Kilpatrick",
+         "message": "> I'm currently looking through the videos on Republic, and it was\nmentioned that Althea would address the need for anonymity that is\ntypically met with the use of a VPN service. If this is indeed to be the\ncase, I am curious what the logging policy is for an Althea exit node.\nHow would an exit node operator respond to an allegation of unlawful\nactivity coming from their servers?\n\nalthea.net/traffic-transparency\n\nWe discuss our traffic management and privacy policies here. We do not collect any traffic logs beyond quantity for billing.\n\nWe will do the best we can within the bounds of US law to protect the privacy of our users.\n\nUsers are fee to select an exit of their choice, operated by whomever they chose. We work to provide a solid default exit option but it may not meet the needs of some enthusiasts.",
+         "replyList": []
+      },
+      {
+         "commenter": "naomi silva",
+         "message": "How do I cancel my participation? The quizzes are too time consuming.",
+         "replyList": []
+      },
+      {
+         "commenter": "ANTONIO RULLO",
+         "message": "I passed the first quiz. the others were overly time consuming for the answers.\nI've done my share of Professional learning and it wasn't worth it.\nHOW DO I BUY IN?",
+         "replyList": []
+      },
+      {
+         "commenter": "Bastiaan Pleijzier",
+         "message": "Get rid of the quizzes, after done 2.......................I no longer bother!",
+         "replyList": []
+      },
+      {
+         "commenter": "Baron Huntington",
+         "message": "Watched the videos more than once, I took the quizzes and had my participation cancelled. I'm still very interested in Althea though.",
+         "replyList": [
+            {
+               "commenter": "Peter Green",
+               "message": "@baron-huntington Hi Baron, please find and click the \"uncancel\" link on your participation page: republic.co/portfolio/althea",
+               "replyList": null
+            },
+            {
+               "commenter": "Baron Huntington",
+               "message": "@peter-green Thank you.",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Cameron Roe",
+         "message": "What's the proposal process? How do we set up a relay node? Do you provide any equipment or do we need to invest in it?",
+         "replyList": [
+            {
+               "commenter": "Deborah Simpier",
+               "message": "@cameron-roe How to make a proposal should be explained in the video. After you make a proposal, we will reach out and help you plan and start your network, which is a bit like starting an ISP.",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "John Sargent",
+         "message": "Hi. Can you elaborate more on the validator? What does it do? How does it work? What is the thought process of having people bet tokens on them? etc.",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@john-sargent Great question. The validators will process transactions on the Althea blockchain to allow routers to pay each other. But token holders ultimately control the blockchain by delegating their authority to the validators. \"Slashing\" 5% of the staked tokens if a validator you have delegated to misbehaves is a way of keeping everybody honest. We didn't invent this, it's been in intensive development for years as people search for an environmentally friendly alternative to proof of work. Here's a friendly explainer: blog.chorus.one/pos-ecosystem-101",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Dominator Dominator",
+         "message": "Can you not make people watch hour long videos to learn about Althea and pass the ridiculous quizzes filled with traps? What's the fastest way to learn about Althea???",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@dominator-dominator This granting program is primarily intended to get people up to speed to be able to start a network in their community. The videos have a lot of information because a successful network organizer needs to know this stuff.",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Jehan Tremback",
+         "message": "A question asked off-site was \"Hi, the only way to invest althea is joining airdrop? Any way to purchase token?\"\n\nThe answer is that at this time, no.",
+         "replyList": []
+      },
+      {
+         "commenter": "Onur Gunduru",
+         "message": "Is it open for international participation?",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@onur-gunduru It's open to most jurisdictions. Republic has an FAQ here: republic.co/help/category/investing",
+               "replyList": null
+            }
+         ]
+      },
+      {
+         "commenter": "Fruma Kane",
+         "message": "I live in a large apartment building. How do I participateP",
+         "replyList": [
+            {
+               "commenter": "Jehan Tremback",
+               "message": "@fruma-kane Thanks for asking! You can start by watching all the videos, and move on to making a proposal for a network in your area. This process will help you learn a lot about whether Althea will work in your area.",
+               "replyList": null
+            }
+         ]
+      }
+   ],
+   "updates": null,
+   "reviews": null,
+   "content": [
+      "First compliant security airdrop for everyone",
+      "Althea wants you to be a decentralized Internet Service Provider in your community",
+      "Althea is giving away 1M of its tokens in this first ever security airdrop campaign",
+      "The Althea token (ALTG) entitles holders to receive a portion of transaction fees from the Althea network, as well as the right to vote on important changes",
+      "Earn tokens by learning about the project or becoming your own ISP",
+      "Anyone in the world over 18 years old can participate",
+      "Your participation is technically an investment, but no USD payment is required",
+      "Ways to earn",
+      "Once you click participate and join the airdrop, you’ll be offered ways to earn your tokens: from simply learning about Althea, to setting up your own network!",
+      "About the project",
+      "Althea is building a faster, cheaper, decentralized internet",
+      "Althea is a system that lets routers pay each other for bandwidth. This allows people to set up decentralized ISPs in their communities. In an Althea network, instead of one ISP at the top collecting monthly payments, many different people can earn money by                                                            expanding and strengthening the network.",
+      "Faster",
+      "Althea is faster, because anybody in the community is able to expand and improve the network and get paid for investing in faster equipment.",
+      "Cheaper",
+      "Althea's price-aware routing protocol makes sure that traffic takes the cheapest path. Your router gets the best prices, second by second.",
+      "Decentralized",
+      "Althea networks are made up of nodes owned by the people who use them. Communities get faster, cheaper internet by cutting out the middleman.",
+      "",
+      "How it works",
+      "Althea can be deployed in any environment",
+      "1.",
+      "End users load up their device or wifi router with blockchain money to pay for internet access.",
+      "",
+      "2.",
+      "A mesh of rooftop transmitters forward packets. They earn money and compete to provide service.",
+      "",
+      "3. ",
+      "Gateway nodes sell access to the internet, competing with other gateways in the area.",
+      "",
+      "",
+      "",
+      "Investors",
+      "",
+      "Althea token model",
+      "ALTG holders control the Althea blockchain, and receive 5%-10% of the revenue in the Althea system.",
+      "ALTG holders must stake their ALTG tokens to receive this revenue.",
+      "To stake their tokens, ALTG holders select a validator, which is a server which processes transactions on the blockchain.",
+      "If a validator misbehaves or goes offline, the ALTG holders who have their tokens staked with this validator will lose a small portion of their tokens. It is the token holder’s responsibility to stake wisely.",
+      "We cannot recommend specific validators, but once the chain has launched, you will be able to see a list of the active validators here: https://althea.zone",
+      "",
+      "How to participate",
+      "Earn tokens and become an Althea organizer",
+      "Althea organizers set up and maintain Althea networks in their communities. They don’t get payments for bandwidth, these go to people hosting relay nodes on their houses. However, they do get a $10–$20 (these rates can be changed) fixed monthly payment from every router on their network. This money allows them to spend time helping people with technical issues that arise, and get more users onto the network.",
+      "We’ve set aside 33% percent of the total ALTG allocation to be granted to organizers, users, and people learning to become organizers. This granting process is part of that.",
+      "Ways to earn",
+      "Once you click participate and join the airdrop, you’ll be offered ways to earn your tokens: from simply learning about Althea, to setting up your own network!",
+      "",
+      "Participate in the Althea",
+      "airdrop for free",
+      "Claim tokens",
+      "The participation in this airdrop is an investment done via regulation crowdfundingAbout Althea",
+      "Legal Name",
+      "Hawk Networks, Inc.",
+      "Founded",
+      "Dec 2017",
+      "Form",
+      "Delaware Corporation",
+      "Employees",
+      "3",
+      "Website",
+      "http://althea.net",
+      "Social Media",
+      "Headquarters",
+      "28 South Park Street , San Francisco, CAAlthea Team",
+      "Jehan Tremback",
+      "CEO",
+      "Dropped out of art school, learned to code. Software consultant for the past 5 years. Volunteer for the past 3 years with peoplesopen.net, a mesh network in Oakland.",
+      "Justin Kilpatrick",
+      "CTO",
+      "Background in devops and performance engineering, previously worked at Red Hat, ran a very large Minecraft server (Civcraft) where players could create their own versions of society.",
+      "Deborah Simpier",
+      "COO",
+      "Active in the Pacific Northwest mesh networking and net neutrality scene for several years. Before she became a co-founder, she was Althea's first user.",
+      "Matt Liston",
+      "Advisor",
+      "Matt Liston is Blockchain entrepreneur based out of San Francisco, California. He is known for his involvement in the blockchain platforms Gnosis and Ethereum.",
+      "Zaki Manian",
+      "Advisor",
+      "Executive Director of Trusted IoT Alliance, a prolific contributor to blockchain and crypto tech. Has deep expertise in cryptography and distributed consensus system. Advisor to several investment funds and startups in the space.",
+      "Yaniv Tal",
+      "Advisor",
+      "Cofounder and Project Lead at The Graph, working to help make Web3 the next big platform to enable large scale decentralization. Previously a Principal Engineer at MuleSoft. Cofounded Workflo, a startup creating UI developer tools.Risks",
+      "There is no assurance that purchasers of the TPA will receive a return on their investment.",
+      "The TPA is highly speculative and any return on an investment is contingent upon numerous circumstances, many of which (including legal and regulatory conditions) are beyond the Company’s control. There is no assurance that Purchasers will realize any return on their investments or that their entire investment will not be lost. For this reason, each Purchaser should carefully read this Form C and the TPA and should consult with his or her own attorney, financial and tax advisors prior to making any investment decision with respect to the TPA. Purchasers should only make an investment in the TPA if they are prepared to lose the entirety of such investment.",
+      "This Offering will not provide meaningful funding to the Company, even if the maximum Offering Amount is met, therefore we may need to secure additional funding and may be unable to raise additional capital on favorable terms, if at all.",
+      "The TPAs and ALTG may not be transferable and if they become transferrable, may not provide investors with significant opportunity for liquidity.",
+      "The tax treatment of the TPA, the purchase rights contained therein and the ALTG is uncertain and there may be adverse tax consequences for Purchasers upon certain future events.",
+      "Neither the TPA nor the ALTG confer any voting or other governance rights. The Purchasers will have no control and the Company may only have limited control of the System once the System Launch occurs, if they hold ALTG. ALTG will not represent an equity interest in the Company before or after the System Launch.",
+      "Show all Risks"
+   ]
+}
